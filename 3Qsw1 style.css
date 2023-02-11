@@ -1,0 +1,84 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.logo{
+	width:150px;
+	margin-top: 10px;
+	margin-left: 10px;
+}
+body {
+background-image: url(ga.webp);
+background-size: cover;
+background-repeat: no-repeat;
+}
+.header{
+	height: 10%;
+}
+.header-btn{
+	text-decoration: none;
+	border-radius: 30px;
+	padding: 7px 20px;
+	float: right;
+	margin-top: 15px;
+	color: white;
+	background:  #2831E4;
+	font-weight: 600;
+	font-family: cursive;
+}
+.bg-info{
+	font-size: 100px;
+	font-family: cursive;
+}
+.text-secondary{
+	font-size: 50px;
+	font-family: cursive;
+}
+.description{
+	font-family: cursive;
+	font-size: 30px;
+}
+.una{
+	border: dotted #324E68;
+	border-radius: 70px;
+	border-width: 10px;
+}
+.texts{
+	font-size: 50px;
+	font-family: serif;
+}
+.wifi{
+	font-size: 50px;
+	font-family: serif;
+
+}
+.Meredith{
+	border: dashed;
+	border-radius: 200px;
+	border-color: red;
+	border-width: 10px;
+}
+.descript{
+	font-size: 20px;
+	font-family: serif;	
+}
+.Derek{
+	border: dotted;
+	border-width: 20px;
+	border-radius: 300px;
+	border-color: blue;
+}
+.Miranda{
+	border: groove;
+	border-width: 20px;
+	border-radius: 300px;
+	border-color: green;
+}
+.Christina{
+	border: inset;
+	border-width: 20px;
+	border-radius: 300px;
+	border-color: orange;
+
+}
